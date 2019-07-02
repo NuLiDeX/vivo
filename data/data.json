@@ -1,0 +1,34 @@
+
+{
+    "code1":[{"title":"三色可选1 ","message":"【新品上市，6月28日10:00开售】 高通骁龙855旗舰处理器，44W闪充","imgurl01":"img/c1.png","imgurl02":"img/iphone2.png","price":"￥1888.00","code":"iphone1","cont":"限时抢购"},
+            {"title":"iQOO M 电光蓝1 ","message":"【新品上市，6月28日10:00开售】 高通骁龙855旗舰处理器，44W闪充","imgurl01":"img/c1.png","imgurl02":"img/iphone2.png","price":"￥1988.00","code":"iphone1","cont":"<ul class='yuanxing1'><li></li><li></li><li></li></ul>"},
+            {"title":"iQOO M 电光蓝22 ","message":"【新品上市，6月28日10:00开售】 高通骁龙855旗舰处理器，44W闪充","imgurl01":"img/c2.png","imgurl02":"img/iphone2.png","price":"￥2888.00","code":"iphone1","cont":"<ul class='yuanxing1'><li></li><li></li><li></li></ul>"},
+            {"title":"iQOO M 电光蓝33 ","message":"【新品上市，6月28日10:00开售】 高通骁龙855旗舰处理器，44W闪充","imgurl01":"img/c3.png","imgurl02":"img/iphone2.png","price":"￥2888.00","code":"iphone1","cont":"<ul class='yuanxing1'><li></li><li></li><li></li></ul>"}
+            ],
+    "code2":[{"title":"三色可选2 ","message":"【新品上市，6月28日10:00开售】 高通骁龙855旗舰处理器，44W闪充","imgurl01":"img/c1.png","imgurl02":"img/iphone2.png","price":"￥1888.00","code":"iphone1","cont":"限时抢购"},
+        {"title":"iQOO M 电光红1 ","message":"【新品上市，6月28日10:00开售】 高通骁龙855旗舰处理器，44W闪充","imgurl01":"img/c1.png","imgurl02":"img/iphone2.png","price":"￥1988.00","code":"iphone1","cont":"<ul class='yuanxing1'><li></li><li></li><li></li></ul>"},
+        {"title":"iQOO M 电光红22 ","message":"【新品上市，6月28日10:00开售】 高通骁龙855旗舰处理器，44W闪充","imgurl01":"img/c2.png","imgurl02":"img/iphone2.png","price":"￥2888.00","code":"iphone1","cont":"<ul class='yuanxing1'><li></li><li></li><li></li></ul>"},
+        {"title":"iQOO M 电光红33 ","message":"【新品上市，6月28日10:00开售】 高通骁龙855旗舰处理器，44W闪充","imgurl01":"img/c3.png","imgurl02":"img/iphone2.png","price":"￥2888.00","code":"iphone1","cont":"<ul class='yuanxing1'><li></li><li></li><li></li></ul>"}
+        ],
+    "code3":[{"title":"三色可选3 ","message":"【新品上市，6月28日10:00开售】 高通骁龙855旗舰处理器，44W闪充","imgurl01":"img/c1.png","imgurl02":"img/iphone2.png","price":"￥1888.00","code":"iphone1","cont":"限时抢购"},
+        {"title":"iQOO M 电光紫1 ","message":"【新品上市，6月28日10:00开售】 高通骁龙855旗舰处理器，44W闪充","imgurl01":"img/c1.png","imgurl02":"img/iphone2.png","price":"￥1988.00","code":"iphone1","cont":"<ul class='yuanxing1'><li></li><li></li><li></li></ul>"},
+        {"title":"iQOO M 电光紫22 ","message":"【新品上市，6月28日10:00开售】 高通骁龙855旗舰处理器，44W闪充","imgurl01":"img/c2.png","imgurl02":"img/iphone2.png","price":"￥2888.00","code":"iphone1","cont":"<ul class='yuanxing1'><li></li><li></li><li></li></ul>"},
+        {"title":"iQOO M 电光紫33 ","message":"【新品上市，6月28日10:00开售】 高通骁龙855旗舰处理器，44W闪充","imgurl01":"img/c3.png","imgurl02":"img/iphone2.png","price":"￥2888.00","code":"iphone1","cont":"<ul class='yuanxing1'><li></li><li></li><li></li></ul>"}
+        ],
+    "code4":[{"title":"三色可选4 ","message":"【新品上市，6月28日10:00开售】 高通骁龙855旗舰处理器，44W闪充","imgurl01":"img/c1.png","imgurl02":"img/iphone2.png","price":"￥1888.00","code":"iphone1","cont":"限时抢购"},
+        {"title":"iQOO M 电光绿1 ","message":"【新品上市，6月28日10:00开售】 高通骁龙855旗舰处理器，44W闪充","imgurl01":"img/c1.png","imgurl02":"img/iphone2.png","price":"￥1988.00","code":"iphone1","cont":"<ul class='yuanxing1'><li></li><li></li><li></li></ul>"},
+        {"title":"iQOO M 电光绿22 ","message":"【新品上市，6月28日10:00开售】 高通骁龙855旗舰处理器，44W闪充","imgurl01":"img/c2.png","imgurl02":"img/iphone2.png","price":"￥2888.00","code":"iphone1","cont":"<ul class='yuanxing1'><li></li><li></li><li></li></ul>"},
+        {"title":"iQOO M 电光绿33 ","message":"【新品上市，6月28日10:00开售】 高通骁龙855旗舰处理器，44W闪充","imgurl01":"img/c3.png","imgurl02":"img/iphone2.png","price":"￥2888.00","code":"iphone1","cont":"<ul class='yuanxing1'><li></li><li></li><li></li></ul>"}
+        ],
+    "code5":[{"title":"三色可选5 ","message":"【新品上市，6月28日10:00开售】 高通骁龙855旗舰处理器，44W闪充","imgurl01":"img/c1.png","imgurl02":"img/iphone2.png","price":"￥1888.00","code":"iphone1","cont":"限时抢购"},
+        {"title":"iQOO M 电光橙1 ","message":"【新品上市，6月28日10:00开售】 高通骁龙855旗舰处理器，44W闪充","imgurl01":"img/c1.png","imgurl02":"img/iphone2.png","price":"￥1988.00","code":"iphone1","cont":"<ul class='yuanxing1'><li></li><li></li><li></li></ul>"},
+        {"title":"iQOO M 电光橙22 ","message":"【新品上市，6月28日10:00开售】 高通骁龙855旗舰处理器，44W闪充","imgurl01":"img/c2.png","imgurl02":"img/iphone2.png","price":"￥2888.00","code":"iphone1","cont":"<ul class='yuanxing1'><li></li><li></li><li></li></ul>"},
+        {"title":"iQOO M 电光橙33 ","message":"【新品上市，6月28日10:00开售】 高通骁龙855旗舰处理器，44W闪充","imgurl01":"img/c3.png","imgurl02":"img/iphone2.png","price":"￥2888.00","code":"iphone1","cont":"<ul class='yuanxing1'><li></li><li></li><li></li></ul>"}
+        ],
+    "code6":[{"title":"三色可选6 ","message":"【新品上市，6月28日10:00开售】 高通骁龙855旗舰处理器，44W闪充","imgurl01":"img/c1.png","imgurl02":"img/iphone2.png","price":"￥1888.00","code":"iphone1","cont":"限时抢购"},
+        {"title":"iQOO M 电光黄1 ","message":"【新品上市，6月28日10:00开售】 高通骁龙855旗舰处理器，44W闪充","imgurl01":"img/c1.png","imgurl02":"img/iphone2.png","price":"￥1988.00","code":"iphone1","cont":"<ul class='yuanxing1'><li></li><li></li><li></li></ul>"},
+        {"title":"iQOO M 电光黄22 ","message":"【新品上市，6月28日10:00开售】 高通骁龙855旗舰处理器，44W闪充","imgurl01":"img/c2.png","imgurl02":"img/iphone2.png","price":"￥2888.00","code":"iphone1","cont":"<ul class='yuanxing1'><li></li><li></li><li></li></ul>"},
+        {"title":"iQOO M 电光黄33 ","message":"【新品上市，6月28日10:00开售】 高通骁龙855旗舰处理器，44W闪充","imgurl01":"img/c3.png","imgurl02":"img/iphone2.png","price":"￥2888.00","code":"iphone1","cont":"<ul class='yuanxing1'><li></li><li></li><li></li></ul>"}
+        ]
+   
+}
