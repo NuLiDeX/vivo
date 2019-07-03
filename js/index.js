@@ -42,7 +42,7 @@ $(function(){
             $.each(json["code1"],function(index,val){
                 // var val = value.code1;
                 // $.each(json["code1"],function(index,val){
-                result += ' <li class=" onon on active "><div  class="wx-conent-4-bottom1-top"><div class="on active"><img src="'+val.imgurl01+'" alt=""></div> </div><p class="wx-conent-4-bottom1-2"><span >'+val.title+'</span></p><p ><span >'+val.cont+'</span> </p><p class="wx-conent-4-bottom1-3"><span style="color:red">'+val.price+'</span> </p></li>'
+                result += ' <li class=" onon on active "><div  class="wx-conent-4-bottom1-top"><div class="on active"><a href=""><img src="'+val.imgurl01+'" alt=""></a></div> </div><p class="wx-conent-4-bottom1-2"><span >'+val.title+'</span></p><p ><span >'+val.cont+'</span> </p><p class="wx-conent-4-bottom1-3"><span style="color:red">'+val.price+'</span> </p></li>'
                 $(".wx-conent-5-con-3").html(result)
             // })
         })
@@ -70,7 +70,7 @@ $(function(){
             $.each(json["code2"],function(index,val){
                 // var val = value.code1;
                 // $.each(json["code1"],function(index,val){
-                result1 += ' <li class=" onon on active "><div  class="wx-conent-4-bottom1-top"><div class="on active"><img src="'+val.imgurl01+'" alt=""></div> </div><p class="wx-conent-4-bottom1-2"><span >'+val.title+'</span></p><p ><span >'+val.cont+'</span> </p><p class="wx-conent-4-bottom1-3"><span style="color:red">'+val.price+'</span> </p></li>'
+                result1 += ' <li class=" onon on active "><div  class="wx-conent-4-bottom1-top"><div class="on active"><a href=""><img src="'+val.imgurl01+'" alt=""></a></div> </div><p class="wx-conent-4-bottom1-2"><span >'+val.title+'</span></p><p ><span >'+val.cont+'</span> </p><p class="wx-conent-4-bottom1-3"><span style="color:red">'+val.price+'</span> </p></li>'
                 $(".wx-conent-5-con-4").html(result1)
             // })
         })
@@ -97,7 +97,7 @@ $(function(){
             $.each(json["code3"],function(index,val){
                 // var val = value.code1;
                 // $.each(json["code1"],function(index,val){
-                result2 += ' <li class=" onon on active "><div  class="wx-conent-4-bottom1-top"><div class="on active"><img src="'+val.imgurl01+'" alt=""></div> </div><p class="wx-conent-4-bottom1-2"><span >'+val.title+'</span></p><p ><span >'+val.cont+'</span> </p><p class="wx-conent-4-bottom1-3"><span style="color:red">'+val.price+'</span> </p></li>'
+                result2 += ' <li class=" onon on active "><div  class="wx-conent-4-bottom1-top"><div class="on active"><a href=""><img src="'+val.imgurl01+'" alt=""></a></div> </div><p class="wx-conent-4-bottom1-2"><span >'+val.title+'</span></p><p ><span >'+val.cont+'</span> </p><p class="wx-conent-4-bottom1-3"><span style="color:red">'+val.price+'</span> </p></li>'
                 $(".wx-conent-5-con-5").html(result2)
             // })
         })
@@ -124,7 +124,7 @@ $(function(){
             $.each(json["code4"],function(index,val){
                 // var val = value.code1;
                 // $.each(json["code1"],function(index,val){
-                result3 += ' <li class=" onon on active "><div  class="wx-conent-4-bottom1-top"><div class="on active"><img src="'+val.imgurl01+'" alt=""></div> </div><p class="wx-conent-4-bottom1-2"><span >'+val.title+'</span></p><p ><span >'+val.cont+'</span> </p><p class="wx-conent-4-bottom1-3"><span style="color:red">'+val.price+'</span> </p></li>'
+                result3 += ' <li class=" onon on active "><div  class="wx-conent-4-bottom1-top"><div class="on active"><a href=""><img src="'+val.imgurl01+'" alt=""></a></div> </div><p class="wx-conent-4-bottom1-2"><span >'+val.title+'</span></p><p ><span >'+val.cont+'</span> </p><p class="wx-conent-4-bottom1-3"><span style="color:red">'+val.price+'</span> </p></li>'
                 $(".wx-conent-5-con-6").html(result3)
             // })
         })
@@ -151,7 +151,7 @@ $(function(){
             $.each(json["code5"],function(index,val){
                 // var val = value.code1;
                 // $.each(json["code1"],function(index,val){
-                result4 += ' <li class=" onon on active "><div  class="wx-conent-4-bottom1-top"><div class="on active"><img src="'+val.imgurl01+'" alt=""></div> </div><p class="wx-conent-4-bottom1-2"><span >'+val.title+'</span></p><p ><span >'+val.cont+'</span> </p><p class="wx-conent-4-bottom1-3"><span style="color:red">'+val.price+'</span> </p></li>'
+                result4 += ' <li class=" onon on active "><div  class="wx-conent-4-bottom1-top"><div class="on active"><a href=""><img src="'+val.imgurl01+'" alt=""></a></div> </div><p class="wx-conent-4-bottom1-2"><span >'+val.title+'</span></p><p ><span >'+val.cont+'</span> </p><p class="wx-conent-4-bottom1-3"><span style="color:red">'+val.price+'</span> </p></li>'
                 $(".wx-conent-5-con-7").html(result4)
             // })
         })
@@ -178,7 +178,7 @@ $(function(){
             $.each(json["code6"],function(index,val){
                 // var val = value.code1;
                 // $.each(json["code1"],function(index,val){
-                result5 += ' <li class=" onon on active "><div  class="wx-conent-4-bottom1-top"><div class="on active"><img src="'+val.imgurl01+'" alt=""></div> </div><p class="wx-conent-4-bottom1-2"><span >'+val.title+'</span></p><p ><span >'+val.cont+'</span> </p><p class="wx-conent-4-bottom1-3"><span style="color:red">'+val.price+'</span> </p></li>'
+                result5 += ' <li class=" onon on active "><div  class="wx-conent-4-bottom1-top"><div class="on active"><a href=""><img src="'+val.imgurl01+'" alt=""></a></div> </div><p class="wx-conent-4-bottom1-2"><span >'+val.title+'</span></p><p ><span >'+val.cont+'</span> </p><p class="wx-conent-4-bottom1-3"><span style="color:red">'+val.price+'</span> </p></li>'
                 $(".wx-conent-5-con-8").html(result5)
             // })
         })
@@ -197,7 +197,7 @@ $(function(){
         $(".wx-conent-5-con-8 li").eq(0)[0].style.display = "block";
     })
 
-//-----------------------------------------------------------------精品
+//-----------------------------------------------------------------------精品
 var res = "";
 $.ajax({
     url: "data/data0.json",
@@ -226,6 +226,16 @@ $.ajax({
     }
 })
 })
+
+
+// $(".wx-conent-5-con-2").on("mouseenter","ul",function(){
+//     var index = $(this).index();
+//    $(this).animate({"top":"-5px"});
+// })
+// $(".wx-conent-5-con-2").on("mouseleave","ul",function(){
+//     var index = $(this).index();
+//    $(this).animate({"top":"0"});
+// })
 
 
 
@@ -333,24 +343,24 @@ $(".box1 span").on("click",function(){
 
 
 /*----------------------------------------------------slide--------------------------------------------*/
-    $(".wx-slide-con2 ").on("mouseover","li",function(){
-        $(this).find("span").css({"background":"#eee"});
-        var index = $(this).index();
-       // console.log($(".wx-slide-con1 .wx-slide-off").eq(index));
-       console.log(index)
-        $(".wx-slide-con2 p").eq(index).addClass("wx-slide-on");    
-    })
-    $(".wx-slide-con2 ").on("mouseleave","li",fn3
-        // $(".wx-slide-con2 ").off("mouseover","li",fn3);
-        // console.log(0)
-    )
-    function fn3(){
-        $(this).find("span").css({"background":"white"});
-        var index = $(this).index();
-       // console.log($(".wx-slide-con1 .wx-slide-off").eq(index));
+    // $(".wx-slide-con2 ").on("mouseover","li",function(){
+    //     $(this).find("span").css({"background":"#eee"});
+    //     var index = $(this).index();
+    //    // console.log($(".wx-slide-con1 .wx-slide-off").eq(index));
     //    console.log(index)
-        $(".wx-slide-con2 p").eq(index).removeClass("wx-slide-on");    
-    }
+    //     $(".wx-slide-con2 p").eq(index).addClass("wx-slide-on");    
+    // })
+    // $(".wx-slide-con2 ").on("mouseleave","li",fn3
+    //     // $(".wx-slide-con2 ").off("mouseover","li",fn3);
+    //     // console.log(0)
+    // )
+    // function fn3(){
+    //     $(this).find("span").css({"background":"white"});
+    //     var index = $(this).index();
+    //    // console.log($(".wx-slide-con1 .wx-slide-off").eq(index));
+    // //    console.log(index)
+    //     $(".wx-slide-con2 p").eq(index).removeClass("wx-slide-on");    
+    // }
     
 /*-----------------------------------热卖专区数据请求--------------------------------------------- */
 // $.ajax({
@@ -421,22 +431,22 @@ $(".wx-banner-nav").mouseleave(function(){
 
 
 /*--------------------------------页面滚动--------------------------------- */
-$(window).scroll(function(){
-    var stop = $("body,html").scrollTop();
-    $(".wx-slide").animate({top: stop + 150},20)
-    // console.log(stop)
-    if(stop > 300){
-        // $(".wx-slide-con2 li").eq(3).addClass("wx-slide-on")
-        $(".wx-slide-con2 li").eq(3)[0].style.display = "block";
-    }else{
-        $(".wx-slide-con2 li").eq(3)[0].style.display = "none";
-    }
+// $(window).scroll(function(){
+//     var stop = $("body,html").scrollTop();
+//     $(".wx-slide").animate({top: stop + 150},20)
+//     // console.log(stop)
+//     if(stop > 300){
+//         // $(".wx-slide-con2 li").eq(3).addClass("wx-slide-on")
+//         $(".wx-slide-con2 li").eq(3)[0].style.display = "block";
+//     }else{
+//         $(".wx-slide-con2 li").eq(3)[0].style.display = "none";
+//     }
    
-})
-$(".wx-slide-con2 li").eq(3).click(function(){
-    // $("body,html").scrollTop().animate
-    $("body,html").animate({"scrollTop":"0"},500)
-})
+// })
+// $(".wx-slide-con2 li").eq(3).click(function(){
+//     // $("body,html").scrollTop().animate
+//     $("body,html").animate({"scrollTop":"0"},500)
+// })
 
 
 /*--------------------------------content------------------------------------------*/

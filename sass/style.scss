@@ -401,24 +401,7 @@ body{
                         text-decoration: line-through;
                     }
                 }
-                // li:nth-of-type(2){
-                //     left: 300px;
-                // }
-                // li:nth-of-type(3){
-                //     left: 600px;
-                // }
-                // li:nth-of-type(4){
-                //     left: 900px;
-                // }
-                // li:nth-of-type(5){
-                //     left: 1200px;
-                // }
-                // li:nth-of-type(6){
-                //     left: 1500px;
-                // }
-                // li:nth-of-type(7){
-                //     left: 1800px;
-                // }
+           
             }
         }
         &-left{
@@ -426,13 +409,37 @@ body{
             z-index: 30;
             left: 10px;
             top: 195px;
+            width: 50px;
+            height: 50px;
+            border: 1px solid #000;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 50px;
+            span{
+                font-size: 30px;
+                // color: red;
+                width: 30px;
+                height: 30px;
+            }
         }
         &-right{
             position: absolute;
             z-index: 30;
             right: 10px;
             top: 195px;
+            width: 50px;
+            height: 50px;
+            border: 1px solid #000;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 50px;
             // overflow: visible;
+            span{
+                font-size: 30px;
+                // color: red;
+                width: 30px;
+                height: 30px;
+            }
         }
     }
     &-4{
@@ -446,8 +453,6 @@ body{
         &-bottom{
            height: 511px;
            margin-top: 10px;
-           
-        //    border: 1px solid blue;
             ul{
                 position: relative;
                 .wx-conent-4-bottom1{
@@ -466,11 +471,9 @@ body{
                         overflow: hidden;
                         // border: 1px solid red;
                         div{
-                            // overflow: hidden;
-                            // float: left;
                             img{
-                                width: 230px;
-                                height: 230px;
+                                width: 200px;
+                                height: 200px;
                             }
 
                         }   
@@ -485,24 +488,14 @@ body{
                         font-size: 24px;
                     }
                     p:nth-of-type(2){
-                        // span{
-                        //     // float: left;
-                            
-                        // }
                         span:nth-of-type(1){
                             font-size: 16px;
                             // display: none;
-                        }
-                        // background: red;
-                        // display:none;
-                            
+                        }       
                     }
                     p:nth-of-type(3){
                         // margin-top: 60px;
                         font-size: 20px;
-                        
-                        
-                    
                     }
                     p:nth-of-type(4){
                         margin-top: 60px;
@@ -533,7 +526,7 @@ body{
         // background: red;
         // display: flex;
         &-con{
-            margin-top: 10px;
+            margin-top: 30px;
             height: 780px;
             // background: red;
             &-1{
@@ -547,20 +540,20 @@ body{
                 }
             }
             &-2{
-                
                 .wx-conent-5-con-3,.wx-conent-5-con-4,.wx-conent-5-con-5,.wx-conent-5-con-6,.wx-conent-5-con-7,.wx-conent-5-con-8{
-                    margin-bottom: 10px;
+                    margin-bottom: 20px;
                     float: left;
                     width: 291px;
                     height: 380px;
                     overflow: hidden;
                     margin-right: 8px;
+                    // position: relative;
                     .onon{
                         float: left;
                         width: 291px;
                         height: 380px;
                         background: #fff;
-                        
+                        // position: absolute;
                         div{
                             margin-top: 40px;
                             margin-bottom: 40px;
@@ -576,12 +569,6 @@ body{
                             font-size: 24px;
                         }
                         p:nth-of-type(2){
-                            // span{
-                            //     display: block;
-                            //     width: 100%;
-                            //     height: 30px;
-                            //      background: pink;
-                            // }
                             font-size: 14px;
                         }
                         p:nth-of-type(3){
@@ -607,8 +594,12 @@ body{
             li{
                 float: left;
                 margin-right: 10px;
-
+                a{
+                    color: #000;
+                    
+                }
             }
+
         }
         .wx-conent-6-box{
 
